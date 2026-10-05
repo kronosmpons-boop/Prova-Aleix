@@ -1,0 +1,26 @@
+# Gula Restaurant (Cadaqués)
+
+> Creative Mediterranean restaurant in the centre of Cadaqués (Costa Brava, Girona, Spain), a few steps from the sea. Recommended by the Guía Repsol 2026. Seasonal menu with Asian accents, fish and meat cooked over the coals, local produce. Average price 35-60 € per person (Guía Repsol).
+
+- Address: Carrer Horta d'en Sanés, 4, 17488 Cadaqués, Girona, Spain
+- Coordinates: 42.2892126, 3.2814082
+- Phone and WhatsApp: +34 621 25 27 62
+- Instagram: https://www.instagram.com/restaurantgula/
+- Online booking: https://gulacadaques.myrestoo.net/en/reservar
+- Google Maps: https://maps.google.com/?cid=5223975124710653241
+- Guía Repsol: https://www.guiarepsol.com/es/fichas/restaurante/gula-334979/
+- Website languages: Catalan (/), Spanish (/es/), English (/en/)
+
+## Opening hours (bookings, may vary by season)
+- Thursday to Sunday: Lunch 13:00-15:15, Dinner 20:00-22:30
+- Tuesday and Wednesday: Dinner 20:00-22:30
+- Monday: Closed
+
+## Pages
+- [Home (Catalan)](/)
+- [Home (Spanish)](/es/)
+- [Home (English)](/en/)
+- [Seasonal menu (PDF, Catalan, Spanish, English and French)](/assets/carta-gula.pdf)
+
+## Cuisine
+Creative Mediterranean cooking that changes with the season: oysters, starters, sea and mountain dishes, fish and meat over the coals, and desserts. Signature dishes mentioned by the Guía Repsol: hake cheeks (cocochas) and suckling pig.
